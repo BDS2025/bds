@@ -1,0 +1,97 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>stpage</title>
+    <link rel="stylesheet" href="stpage.css">
+</head>
+<body>
+    <center>
+    <h1>Welcome To Quzie World</h1></center>
+    
+
+  <div class="">
+
+
+  </div>  
+<div id="stbox">
+  
+
+
+    <div>
+        <label for="1 Year">1 Year </label>
+        <select>
+          <option value="1 semter">python</option>
+          <option value="2 semter">coa</option>
+        </select>
+    </div>
+
+    <div>
+        <label for="2 Year">2 Year</label>
+        <select>
+          <option value="3 semter">java</option>
+          <option value="4 semter">php</option>
+          
+        </select>
+    </div>
+
+<div >
+    <label for="3 Year">3 Year</label>
+    <select>
+      <option value="5 semster">rdbms</option>
+      <option value="5 semster">c.n</option>
+      <option value="5 semster">o.s</option>
+      <option value="5 semster">c.g</option>
+    </select>
+</div>
+
+
+<div class="4 Year">
+  <label for="4 Year">4 Year</label>
+  <select name="4 Year" id="3 Year">
+    <option value="6 semster">mc</option>
+    <option value="6 semster">cc</option>
+    <option value="6 semster">ds</option>
+    <option value="6 semster">se</option>
+  </select>
+</div>
+</div>
+
+</div>
+
+
+
+
+
+    
+</body>
+</html>
+
+
+
+
+
+
+\\css coment
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#stbox{
+    height: auto;
+    width: 50%;
+    text-align: center;
+    
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+*{
+    background-color: ;
+    
+}
+
+
